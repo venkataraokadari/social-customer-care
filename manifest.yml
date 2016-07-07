@@ -13,7 +13,7 @@ applications:
    - natural-language-classifier-service
    - personality-insights-service
    - tone-analyzer-standard
-  name: vrk-wdc-stk-scc
+  name: social-customer-care
   command: npm start
   path: .
   memory: 512M
